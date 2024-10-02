@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bitts64
 - 👀 I’m interested in technology,...
-- 🌱 I’m currently learning C++ and C#.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, PHP, SQL, and HTML.
+- 🔒 Currently not accepting collab requests
 - 📫 How to reach me ...
 
 <!---
